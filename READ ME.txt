@@ -1,1 +1,3 @@
 Code::Blocks
+I hope it works.
+Ignore files other than .cpp
