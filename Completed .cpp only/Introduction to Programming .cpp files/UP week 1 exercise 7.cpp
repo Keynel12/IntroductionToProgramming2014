@@ -14,4 +14,5 @@ int main()
     double finalsum;
     finalsum = (price * numberItems) * vat;
     cout << "You are paying " << finalsum << " in taxes!" << endl;
+    return 0;
 }
